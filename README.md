@@ -232,7 +232,7 @@ BUCKET
    修改文件：`assets/App.vue`  
    
    ```vue
-   // 约第 213 行
+   // 约第 2513 行
    export default {
      data: () => ({
        ...
