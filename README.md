@@ -1,3 +1,6 @@
+原项目 https://github.com/52op/FlareDrive-R2
+更改了背景图片、更改了标题、去掉了一些底部信息
+
 # FlareDrive-R2 Enhanced
 
 基于 Cloudflare R2 + Workers 构建的增强版在线网盘系统，在原项目基础上进行了大量改进和功能增强。
@@ -232,7 +235,7 @@ BUCKET
    修改文件：`assets/App.vue`  
    
    ```vue
-   // 约第 2513 行
+   // 约第 213 行
    export default {
      data: () => ({
        ...
